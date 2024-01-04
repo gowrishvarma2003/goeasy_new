@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "352414487947",
+    "project_id": "goeasy-65837",
+    "storage_bucket": "goeasy-65837.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352414487947:android:72c1d4d3519bbbdc7c0b8e",
+        "android_client_info": {
+          "package_name": "com.example.goeasy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352414487947-taa91tfh44k18nv6j5ne00mptq7tlart.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCurrnVE3Ci5OAo2qsv-hKs9OeJ8me5XF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352414487947-taa91tfh44k18nv6j5ne00mptq7tlart.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
